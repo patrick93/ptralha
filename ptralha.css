@@ -1,0 +1,21 @@
+html,body, #mapContainer {
+  font-family:sans-serif;
+  background:#fff;
+  color:#444;
+  height:100%;
+  padding:0;
+  margin:0;
+}
+
+p.content-one, p.number {
+    display:none;
+}
+div.sitesection {
+    background-color: white;
+    width: 150px;
+    padding: 0 10px;
+    right: 30px;
+	top: 10px;
+    position: fixed;
+	font-size: 12px;
+}
