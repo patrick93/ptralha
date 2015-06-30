@@ -846,7 +846,7 @@ $(window).on('load', function() {
 		$('.expand-one').click(function(){
 			$('.content-one, .number').slideToggle('slow');
 		});
-		var totalTweets = "Tweets contabilizados até agora: " + heatMapData.length;
+		var totalTweets = "Tweets contabilizados até agora: " + 323;
 		$('.number').text(totalTweets);
 	//});
 });
